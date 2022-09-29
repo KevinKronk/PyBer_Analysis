@@ -16,5 +16,4 @@ As seen in the summary DataFrame, the total number of rides, drivers, and fares 
 
 ## Summary 
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+In urban cities there are more total drivers than rides. This must mean that there are some amount of inactive drivers, which are also skewing the average fare per driver value to be lower. Therefore, I would recommend getting rid of any inactive drivers from urban and even suburban and rural cities, or at the very least taking note of them so they aren't included in the summary analysis. The average fare per ride is lower in urban cities, likely because the distances and times of the rides are shorter. If we wanted the average fare per ride to be more equal, then the business should charge higher fares in urban and suburban ctiies, or lower the fare for rural cities. From January through April, it seems that the total fare for rural and suburban cities is fairly consistent, whereas it increases for urban cities. This could be due to more events happening in urban areas. The company could try to offer discounts or work with more events to get more rides. 
