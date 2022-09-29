@@ -8,7 +8,7 @@ Omar and I are working for PyBer, a Python based ridesharing app company. We nee
 
 ## Results
 
-
+![Summary Table](analysis/Summary_Table.png)
 
 ![Total Fare by City Type](analysis/PyBer_fare_summary.png)
 
