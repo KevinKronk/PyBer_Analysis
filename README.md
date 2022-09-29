@@ -8,8 +8,13 @@ Omar and I are working for PyBer, a Python based ridesharing app company. We nee
 
 ## Results
 
+As seen in the summary DataFrame, the total number of rides, drivers, and fares goes up from rural, to suburban, to urban cities. This makes sense considering that urban cities will be more populated than suburban and rural. The average fare per ride is highest in rural cities, followed by suburban, and lowest in urban. This makes sense as the distances and times of rides are likely longer in rural cities than urban. Finally, the average fare per driver is highest in rural cities, followed by suburban, and lowest in urban. This doesn't necessarily add up and further investigation may be needed. In the multiple line chart the total fare per month is always highest in urban cities, followed by suburban, and lowest in rural. The total fare per month is about 4x higher on average in suburban than rural, and 10x higher in urban. 
+
 ![Summary Table](analysis/Summary_Table.png)
 
 ![Total Fare by City Type](analysis/PyBer_fare_summary.png)
 
 ## Summary 
+
+Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
